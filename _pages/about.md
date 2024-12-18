@@ -20,11 +20,11 @@ Lin Zhu, Yifeng Yang, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. 
 
 Lin Zhu, Weihan Yin, Yiyao Yang, Fan Wu, Zhaoyu Zeng, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Vision-Language Alignment Learning under Affinity and Divergence Principles for Few-Shot Out-of-Distribution Generalization. *International Journal of Computer Vision. *International Journal of Computer Vision 2024 (IJCV 2024)*.
 
-Xilong Zhao, Siyuan Bian, Yaoyun Zhang, Yuliang Zhang, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. *AAAI Conference on Artificial Intelligence 2024 (AAAI 2024)*.
+Xilong Zhao, Siyuan Bian, Yaoyun Zhang, Yuliang Zhang, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Domain Invariant Learning for Gaussian Processes and Bayesian Exploration. *AAAI Conference on Artificial Intelligence 2024 (AAAI 2024)*.
 
-Chensheng Peng, Zhaoyu Zeng, Jinling Gao, Jundong Zhou, Masayoshi Tomizuka, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. *IEEE Robotics and Automation Letters 2024 (RA-L 2024)*
+Chensheng Peng, Zhaoyu Zeng, Jinling Gao, Jundong Zhou, Masayoshi Tomizuka, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search. *IEEE Robotics and Automation Letters 2024 (RA-L 2024)*
 
-Fan Wu, Jinling Gao, Lanqing Hong, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. *AAAI Conference on Artificial Intelligence 2024 (AAAI 2024)*.
+Fan Wu, Jinling Gao, Lanqing Hong, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection. *AAAI Conference on Artificial Intelligence 2024 (AAAI 2024)*.
 
 **Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. An Annealing Mechanism for Adversarial Training. *IEEE Transaction on Neural Network and Learning System 2021*.
 
