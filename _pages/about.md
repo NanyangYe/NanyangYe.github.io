@@ -19,7 +19,7 @@ Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, **Nanyang Ye\***. Less is More:
 
 Lin Zhu, Weihan Yin, Fan Wu, Qinying Gu, Xingbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayes-CAL: Robust Cross-Modal Alignment by Bayesian Approach for Few-Shot OoD Generalization. *International Journal of Computer Vision 2025 (IJCV 2025)*.
 
-**Nanyang Ye, Zhaoyu Zeng, Jundong Zhou, Yuxiao Duan, Haoqi Zeng, Qinying Gu, Xinbing Wang, Chenghu Zhou. OoD-Control:Generalizing Control to Unseen Environments. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2024 (T-PAMI 2024)*.
+**Nanyang Ye**, Zhaoyu Zeng, Jundong Zhou, Yuxiao Duan, Haoqi Zeng, Qinying Gu, Xinbing Wang, Chenghu Zhou. OoD-Control:Generalizing Control to Unseen Environments. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2024 (T-PAMI 2024)*.
 
 Lin Zhu, Yifeng Yang, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection.
 *International Conference on Machine Learning 2024 (ICML 2024)*.
