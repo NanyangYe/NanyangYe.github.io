@@ -13,11 +13,11 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 [2025年保研开始，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
-**Xue Zhao, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Generalizable Multi-Camera 3D Object Detection from a Single Source via Fourier Cross-View Learning. *International Conference on Machine Learning 2025 (ICML 2025)*.
+Xue Zhao, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Generalizable Multi-Camera 3D Object Detection from a Single Source via Fourier Cross-View Learning. *International Conference on Machine Learning 2025 (ICML 2025)*.
 
-**Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, **Nanyang Ye\***. Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models. *International Conference on Learning Representations 2025 (ICLR 2025)*.
+Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, **Nanyang Ye\***. Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models. *International Conference on Learning Representations 2025 (ICLR 2025)*.
 
-**Lin Zhu, Weihan Yin, Fan Wu, Qinying Gu, Xingbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayes-CAL: Robust Cross-Modal Alignment by Bayesian Approach for Few-Shot OoD Generalization. *International Journal of Computer Vision 2025 (IJCV 2025)*.
+Lin Zhu, Weihan Yin, Fan Wu, Qinying Gu, Xingbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayes-CAL: Robust Cross-Modal Alignment by Bayesian Approach for Few-Shot OoD Generalization. *International Journal of Computer Vision 2025 (IJCV 2025)*.
 
 **Nanyang Ye, Zhaoyu Zeng, Jundong Zhou, Yuxiao Duan, Haoqi Zeng, Qinying Gu, Xinbing Wang, Chenghu Zhou. OoD-Control:Generalizing Control to Unseen Environments. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2024 (T-PAMI 2024)*.
 
