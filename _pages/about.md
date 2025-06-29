@@ -10,13 +10,14 @@ redirect_from:
 I obtained PhD from University of Cambridge. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems. I serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, ICCV, AAAI, IJCAI, etc. 
 
 **Contact:** ynylincoln AT sjtu DOT edu DOT cn
-[有2025级计算机学术/工程硕士名额(保研考研同学均可报名），请尽快联系谢谢！]
+[2025年保研开始，请尽快联系谢谢！]
 # Selected Publications
 ------
 **Xue Zhao, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Generalizable Multi-Camera 3D Object Detection from a Single Source via Fourier Cross-View Learning. *International Conference on Machine Learning 2025 (ICML 2025)*.
 
 **Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, **Nanyang Ye\***. Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models. *International Conference on Learning Representations 2025 (ICLR 2025)*.
 
+**Lin Zhu, Weihan Yin, Fan Wu, Qinying Gu, Xingbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayes-CAL: Robust Cross-Modal Alignment by Bayesian Approach for Few-Shot OoD Generalization. *International Journal of Computer Vision 2025 (IJCV 2025)*.
 
 **Nanyang Ye, Zhaoyu Zeng, Jundong Zhou, Yuxiao Duan, Haoqi Zeng, Qinying Gu, Xinbing Wang, Chenghu Zhou. OoD-Control:Generalizing Control to Unseen Environments. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2024 (T-PAMI 2024)*.
 
