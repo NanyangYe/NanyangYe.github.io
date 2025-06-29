@@ -15,6 +15,10 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 ------
 Xue Zhao, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Generalizable Multi-Camera 3D Object Detection from a Single Source via Fourier Cross-View Learning. *International Conference on Machine Learning 2025 (ICML 2025)*.
 
+Yifeng Yang, Lin Zhu, Zewen Sun, Hengyu Liu, Qinying Gu, Xinbing Wang, **Nanyang Ye\***. OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary. *IEEE Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025)*.
+
+Wei Huang, Qinying Gu, **Nanyang Ye\***. Spike-Driven Transformer for Decision Making. *IEEE Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025)*.
+
 Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, **Nanyang Ye\***. Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models. *International Conference on Learning Representations 2025 (ICLR 2025)*.
 
 Lin Zhu, Weihan Yin, Fan Wu, Qinying Gu, Xingbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayes-CAL: Robust Cross-Modal Alignment by Bayesian Approach for Few-Shot OoD Generalization. *International Journal of Computer Vision 2025 (IJCV 2025)*.
