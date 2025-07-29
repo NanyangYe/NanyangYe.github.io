@@ -13,6 +13,8 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 [2025年保研开始，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
+Lin Zhu, Yifeng Yang, Zichao Nie, Yuan Gao, Jiarui Li, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. InfoBound: A Provable Information-Bounds Inspired Framework for Both OoD Generalization and OoD Detection. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
+
 Xue Zhao, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Generalizable Multi-Camera 3D Object Detection from a Single Source via Fourier Cross-View Learning. *International Conference on Machine Learning 2025 (ICML 2025)*.
 
 Yifeng Yang, Lin Zhu, Zewen Sun, Hengyu Liu, Qinying Gu, Xinbing Wang, **Nanyang Ye\***. OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary. *IEEE Conference on Computer Vision and Pattern Recognition 2025 (CVPR 2025)*.
