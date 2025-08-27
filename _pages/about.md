@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 ------
-I obtained PhD from University of Cambridge. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems. I serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, ICCV, AAAI, IJCAI, etc. 
+I obtained PhD from University of Cambridge. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems including large vision language models. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems. I serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences and journals, such as NeurIPS, CVPR, ICCV, AAAI, IJCAI, etc. 
 
 **Contact:** ynylincoln AT sjtu DOT edu DOT cn
-[2025年保研开始，欢迎各位优秀人才联系！]
+[2025年保研开始，目前有博士和硕士名额，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
 Lin Zhu, Yifeng Yang, Zichao Nie, Yuan Gao, Jiarui Li, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. InfoBound: A Provable Information-Bounds Inspired Framework for Both OoD Generalization and OoD Detection. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
