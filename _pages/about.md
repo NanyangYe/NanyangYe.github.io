@@ -13,6 +13,10 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 [2025年保研开始，目前有博士和硕士名额，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
+Lin Zhu, Yifeng Yang, Xinbing Wang, Qinying Gu, **Nanyang Ye\***. DeltaEnergy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization. *Advances in Neural Information Processing Systems 2025 (NeurIPS 2025)*
+
+Wei Huang, Jianshu Zhang, Leiyu Wang, Heyue Li, Luoyi Fan, Yichen Zhu, **Nanyang Ye\***, Qinying Gu. Less is More: an Attention-free Sequence Prediction Modeling for Offline Embodied Learning. *Advances in Neural Information Processing Systems 2025 (NeurIPS 2025)*
+
 Lin Zhu, Yifeng Yang, Zichao Nie, Yuan Gao, Jiarui Li, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. InfoBound: A Provable Information-Bounds Inspired Framework for Both OoD Generalization and OoD Detection. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
 
 Xue Zhao, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Generalizable Multi-Camera 3D Object Detection from a Single Source via Fourier Cross-View Learning. *International Conference on Machine Learning 2025 (ICML 2025)*.
