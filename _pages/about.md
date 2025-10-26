@@ -13,6 +13,8 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 [2025年保研开始，目前有博士和硕士名额，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
+**Nanyang Ye#\***, Kaican Li#, Fan Wu#, Jundong Zhou, Haoyue Bai, Runpeng Yu, Lanqing Hong, Fengwei Zhou, Zhenguo Li, Jun Zhu, Xinbing Wang, Chenghu Zhou. OODBench+: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
+
 Lin Zhu, Yifeng Yang, Xinbing Wang, Qinying Gu, **Nanyang Ye\***. DeltaEnergy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization. *Advances in Neural Information Processing Systems 2025 (NeurIPS 2025)*.
 
 Wei Huang, Jianshu Zhang, Leiyu Wang, Heyue Li, Luoyi Fan, Yichen Zhu, **Nanyang Ye\***, Qinying Gu. Less is More: an Attention-free Sequence Prediction Modeling for Offline Embodied Learning. *Advances in Neural Information Processing Systems 2025 (NeurIPS 2025)*.
