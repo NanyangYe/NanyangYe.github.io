@@ -13,6 +13,8 @@ I obtained PhD from University of Cambridge. My current research interests focus
 [2025年保研开始，目前有博士和硕士名额，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
+Xinzhe Yuan, Zhuo Chen, Jianshu Zhang, Huan Xiong, **Nanyang Ye\***, Yuqiang Li\*, Qinying Gu\*. Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery. *International Conference on Learning Representations 2026 (ICLR 2026)*.
+
 Lin Zhu, Weihan Yin, Yiyao Yang, Yifei Wu, Qinying Gu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. CFSM: A Novel Causal Feature Selection Module for Two-Dimensional Out-of-Distribution Generalization. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
 
 **Nanyang Ye#\***, Kaican Li#, Fan Wu#, Jundong Zhou, Haoyue Bai, Runpeng Yu, Lanqing Hong, Fengwei Zhou, Zhenguo Li, Jun Zhu, Xinbing Wang, Chenghu Zhou. OODBench+: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
