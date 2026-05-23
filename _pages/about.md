@@ -13,6 +13,18 @@ I obtained PhD from University of Cambridge. My current research interests focus
 [2025年保研开始，目前有博士和硕士名额，欢迎各位优秀人才联系！]
 # Selected Publications
 ------
+Mingtao Xian, Yifeng Yang, Qinying Gu, Xinbing Wang, **Nanyang Ye\***. Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration. *International Conference on Machine Learning 2026 (ICML 2026)*
+
+Jiaxi Liu, Yifeng Yang, Xinbing Wang, Qinying Gu, **Nanyang Ye\***. Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models. *International Conference on Machine Learning 2026 (ICML 2026)*
+
+Zhuo Chen, Xinzhe Yuan, Jianshu Zhang, Jinzong Dong, Ruichen Zhou, Yingchun Niu, Tianhang Zhou, Yu Yang Fredrik Liu, Yuqiang Li, **Nanyang Ye\***, Qinying Gu\*. LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation. *International Conference on Machine Learning 2026 (ICML 2026)*
+
+Chenqi Yan, Zhaoyu Zeng, Yifeng Yang, Jundong Zhou, Zhuoyuan Ni, Junqi Wu, Qinying Gu, Xinbing Wang, **Nanyang Ye\***. SPUR: Scale-Partitioned Uncertainty Rectification for Robust UAV-on-UAV Interception. *International Conference on Machine Learning 2026 (ICML 2026)*
+
+Jundong Zhou, Tianao Cai, Yujie Huang, Xinbing Wang, Guang-Zhong Yang, **Nanyang Ye\***. ImpQuant: Fine-Grained Importance-Aware Quantization for Large Vision-Language Models. *International Conference on Machine Learning 2026 (ICML 2026)*.
+
+Leiyu Wang, Zhaofengnian Wang, Xueqi Li, Luoyi Fan, Cewu Lu, **Nanyang Ye\***. Scaling by Diversified Experience for Vision-Language-Action Models. *International Conference on Machine Learning 2026 (ICML 2026)*.
+
 Xinzhe Yuan, Zhuo Chen, Jianshu Zhang, Huan Xiong, **Nanyang Ye\***, Yuqiang Li\*, Qinying Gu\*. Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery. *International Conference on Learning Representations 2026 (ICLR 2026)*.
 
 Lin Zhu, Weihan Yin, Yiyao Yang, Yifei Wu, Qinying Gu, Xinbing Wang, **Nanyang Ye\***. CFSM: A Novel Causal Feature Selection Module for Two-Dimensional Out-of-Distribution Generalization. *IEEE Transaction on Pattern Analysis and Machine Intelligence 2025 (T-PAMI 2025)*.
